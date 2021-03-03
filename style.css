@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(248, 240, 240);
+}
+
+.nav-extended {
+  background-image: url("pexels-dmitry-demidov-3921045.jpg");
+  background-size: cover;
+  background-blend-mode: soft-light;
+}
+
+nav ul li.active,
+.tab a.active {
+  border-bottom: solid 2px white;
+  background-color: transparent;
+}
+
+.nav-header h1 {
+  text-shadow: 2px 2px 8px #000000;
+}
